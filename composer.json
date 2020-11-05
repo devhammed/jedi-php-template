@@ -3,7 +3,7 @@
   "description": "Template for Jedi PHP Framework, The New Hope!",
   "type": "project",
   "license": "MIT",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "authors": [
     {
       "name": "Hammed Oyedele",
@@ -17,6 +17,6 @@
   },
   "minimum-stability": "stable",
   "require": {
-    "devhammed/jedi-php": "^0.0.2"
+    "devhammed/jedi-php": "^0.0.3"
   }
 }
