@@ -1,0 +1,52 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "941603d2e9bb8579c0fa9645dd1c45dd",
+    "packages": [
+        {
+            "name": "devhammed/jedi-php",
+            "version": "0.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/devhammed/jedi-php.git",
+                "reference": "47431c123a89ae7b404cb96c4c10e643d48d8a41"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/devhammed/jedi-php/zipball/47431c123a89ae7b404cb96c4c10e643d48d8a41",
+                "reference": "47431c123a89ae7b404cb96c4c10e643d48d8a41",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Jedi\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Hammed Oyedele",
+                    "email": "itz.harmid@gmail.com"
+                }
+            ],
+            "description": "Jedi PHP Framework, The New Hope!",
+            "time": "2020-11-05T11:29:43+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "1.1.0"
+}
