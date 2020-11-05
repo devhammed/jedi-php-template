@@ -1,0 +1,22 @@
+{
+  "name": "devhammed/jedi-php-template",
+  "description": "Template for Jedi PHP Framework, The New Hope!",
+  "type": "project",
+  "license": "MIT",
+  "version": "0.0.1",
+  "authors": [
+    {
+      "name": "Hammed Oyedele",
+      "email": "itz.harmid@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "minimum-stability": "stable",
+  "require": {
+    "devhammed/jedi-php": "^0.0.1"
+  }
+}
